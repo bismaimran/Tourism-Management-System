@@ -1,0 +1,17 @@
+nav ul li {
+  padding: 5px;
+}
+
+.floatRight {
+  float: right;
+  margin-left: auto;
+}
+
+.floatLeft {
+  float: left;
+  margin-right: auto;
+}
+
+.btn-success {
+  margin-left: 20px;
+}
